@@ -1,0 +1,36 @@
+h3.main_heading{
+    color: white !important; 
+    margin: 20px;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+.upload_section {
+    margin-top:40px;
+}
+#gallery{
+    margin-top:40px;
+}
+
+#gallery img {
+    width:150px;
+    height:150px;
+    padding:5px;
+    margin:5px;
+    border-radius: 10px;
+}
+
+.row.import_export{
+    width: 80%;
+    margin: auto;
+}
+.table_records{
+    width:95%;
+    margin: 20px auto;
+}
+
+.msg_section{
+    margin:auto;
+    margin-top:20px;
+    width:50%;
+}
